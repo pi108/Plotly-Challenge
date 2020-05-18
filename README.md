@@ -27,6 +27,9 @@ We were asked to build a webpage dashboard containing the following:
 
 The Metadata Panel (containing the demographics) and the 3 charts (the bar chart, the bubble chart and the gauge chart) will update automatically when the user selects an ID from the dropdown box. 
 
+The Dashboard can be found at the following link:
+https://pi108.github.io/Plotly-Challenge/
+
 This is an image of the Top Half of the Dashboard:
 
 ![](images/BBB_Dashboard_Top_Half.PNG)
@@ -36,4 +39,7 @@ This is an image of the Bottom Half of the Dashboard:
 ![](images/BBB_Dashboard_Bottom_Half.PNG)
 
 
+### Additional information regarding Belly Button Diversity
+The following website conatisn additional information regarding Belly Button Diversity.
+http://robdunnlab.com/projects/belly-button-biodiversity/
 
