@@ -2,6 +2,13 @@
 
 ## This repository contains the folders and files regarding a Plotly exercise that was performed with data related to Belly-Button Bio-Diversity, which catalogs the microbes that colonize human levels. 
 
+### Files and Folder Structure:
+This repository contains the following:
+1. A folder called "data". This folder contains a json file called "samples.json" that contains the dataset.
+2. A folder called "images". This folder contains teh images of the top half and the bottom half of the dashboard that was built as part of this exercise.
+3. A fodler called "static". In this folder, is another folder called "js" that contains the javascript file called "app" that is used in conjunction with the HTML file.
+4. An HTML file called "index" which si the file used for the webpage dashboard.
+
 ### Dataset
 The dataset contained the following columns:
 * Names (in the form of IDs)
