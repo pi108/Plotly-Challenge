@@ -28,9 +28,9 @@ We were asked to build a webpage dashboard containing the following:
 The Metadata Panel (containing the demographics) and the 3 charts (the bar chart, the bubble chart and the gauge chart) will update automatically when the user selects an ID from the dropdown box. 
 
 This is an image of the Top Half of the Dashboard:
-<hr>
+<br>
 ![](images/BBB_Dashboard_Top_Half.PNG)
-
+<br>
 This is an image of the Bottom Half of the Dashboard:
 <br>
 ![](images/BBB_Dashboard_Bottom_Half.PNG)
