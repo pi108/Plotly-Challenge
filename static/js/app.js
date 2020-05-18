@@ -117,6 +117,8 @@ for (var i = 0; i < dropdownBox.length; i++) {
   // Apply layout
   var layout = {
     title: 'OTU Frequency',
+    xaxis: {title: { text: 'OTU IDs'}},
+    yaxis: {title: { text: 'Sample Values'}},
     showlegend: false,
     height: 600,
     width: 1200
